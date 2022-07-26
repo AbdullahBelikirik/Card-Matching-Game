@@ -200,7 +200,6 @@ int main(int argc, char *argv[]) {
 				}
 			}
 			
-			//Bilgisayarın output işlemleri
 			body(difftext,score,pcscore,goal,2);
 			matrix(output,numbers,border,9,9,9,9);
 			printf("\n\tComputer is making first move...\n");
